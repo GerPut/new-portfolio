@@ -100,7 +100,7 @@ export const ExternalLinks = styled.a`
 color:#fafafa;
 font-size: 1.6rem;
 font-weight:300;
-border-radius:15px;
+border-radius:8px;
 border:1px solid #ec9f05;
 padding:1rem 1.5rem;
 transition: 0.5s;
