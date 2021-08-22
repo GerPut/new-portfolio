@@ -7,7 +7,7 @@ import { motion } from 'framer-motion'
 import { Container, Div1, Div2, NavLink, Span } from './HeaderStyles';
 
 const Header = () => (
-  <motion.div animate={{ y: 0 }} initial={{ y: -120 }} transition={{ duration: 3 }}>
+  <motion.div animate={{ y: 0 }} initial={{ y: -120 }} transition={{ duration: 2.3 }}>
     <Container>
       <Div1>
         <Link href="https://www.coderg.dev/" target_blank>
