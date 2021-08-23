@@ -15,7 +15,7 @@ const Timeline = () => {
         <br />
         <SectionTitle>About Me</SectionTitle>
         <SectionText>
-          I am a Front-End web developer based in Cape Town, South Africa. My goal is to write well designed code that is testable and efficient by using best development practices. I have been actively building small apps and working on my own bigger projects.
+          I am a Front-End web developer based in Cape Town, South Africa. My goal is to write well designed code that is testable and efficient by using best development practices. I have been actively building small apps and working on my own bigger projects. I am someone who demonstrates a strong work ethic and can be a cooperative member of a team.
         </SectionText>
       </Section>
     </motion.div >
