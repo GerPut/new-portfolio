@@ -10,7 +10,7 @@ const Header = () => (
   <motion.div animate={{ y: 0 }} initial={{ y: -120 }} transition={{ duration: 2.3 }}>
     <Container>
       <Div1>
-        <Link href="https://www.coderg.dev/" target_blank>
+        <Link href="https://gerhardp-old-portfolio.netlify.app" target_blank>
           <a style={{ display: "flex", alignItems: "center", color: "white", fontWeight: "600", marginBottom: "20px" }}>
             <FaCog size="4rem" /> <Span>CODERG.DEV</Span>
           </a>
