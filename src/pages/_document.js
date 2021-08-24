@@ -32,6 +32,7 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"></link>
+          <meta name="description" content="Hello I'm Gerhard. I am a Front-end Web Developer from Cape Town, South Africa"></meta>
         </Head>
         <body>
           <Main />
