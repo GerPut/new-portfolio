@@ -22,7 +22,7 @@ const Footer = () => {
         </motion.div>
         <LinkColumn>
           <LinkTitle>E-mail</LinkTitle>
-          <LinkItem href="mailto:contact@">gerhard.putter1@gmail.com</LinkItem>
+          <LinkItem href="mailto:gerhard.putter1@gmail.com">gerhard.putter1@gmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
 
