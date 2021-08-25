@@ -100,11 +100,11 @@ export const projects = [
   },
   {
     title: 'Utility Apps',
-    description: "This project contains 5 other mini projects built with HTML, CSS and Javascript. These mini projects include a Loan Calculator, RSA random code generator, Login Form, Weather app (Use of an API) and a Currency exchange app. ",
+    description: "This project contains mini projects/apps built with HTML, CSS and Javascript. These apps include a Loan Calculator, RSA random code generator, Login Form, Weather app (Use of an API), Currency exchange app (Use of an API), Shopping List (CRUD) and a Calculator. ",
     image: '/images/project17.png',
     tags: ['HTML', 'CSS', 'Javascript', 'API'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/GerPut/utility-apps',
+    visit: 'https://gerhardp17.netlify.app/',
     id: 11,
   },
 ];
