@@ -81,12 +81,12 @@ export const projects = [
     id: 8,
   },
   {
-    title: 'Staff Management',
-    description: "This is a basic React app that can be used to assign staff duties for the day. It consists of a form that uses the user input to display a list of names and duties. The user can add and delete names to and from the list.",
-    image: '/images/project14.png',
+    title: 'Car List',
+    description: "Basic app built with React hooks and bootstrap styles. Client can add and remove items/data to and from a list that gets stored in localStorage.",
+    image: '/images/project18.png',
     tags: ['React', 'Bootstrap'],
-    source: 'https://github.com/GerPut/staff-management',
-    visit: 'https://gerhardp14.netlify.app/',
+    source: 'https://github.com/GerPut/car-list',
+    visit: 'https://gerhardp18.netlify.app/',
     id: 9,
   },
   {
