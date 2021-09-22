@@ -107,6 +107,15 @@ export const projects = [
     visit: 'https://gerhardp17.netlify.app/',
     id: 11,
   },
+  {
+    title: 'Breakout Game',
+    description: "Game Project. Using Javascript, CSS and HTML Canvas to create a game. The aim of the game is to hit the moving ball with a paddle to destroy bricks. For each brick destroyed the score increments. If the paddle misses the ball the game resets.",
+    image: '/images/project19.png',
+    tags: ['HTML', 'CSS', 'Javascript', 'Canvas'],
+    source: 'https://github.com/GerPut/breakout-game',
+    visit: 'https://gerhardp19.netlify.app/',
+    id: 12,
+  },
 ];
 
 export const TimeLineData = [
