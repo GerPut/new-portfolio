@@ -63,12 +63,12 @@ export const projects = [
     id: 6,
   },
   {
-    title: 'Accountant',
-    description: "Project built for a client. I've taken a mobile first approach with this project.The project is responsive to all screen sizes. The project was built with HTML, CSS grid along with some basic ScrollMagic animations.",
-    image: '/images/project11.png',
+    title: 'Tilted',
+    description: "Service page site for a Poker training program. The project is responsive to all screen sizes. The project was built with HTML, CSS grid along with some basic ScrollMagic animations.",
+    image: '/images/project20.png',
     tags: ['HTML', 'CSS', 'CSS-Grid', 'ScrollMagic'],
-    source: 'https://github.com/GerPut/accounting',
-    visit: 'https://gerhardp11.netlify.app/',
+    source: 'https://github.com/GerPut/service-page',
+    visit: 'https://gerhardp20.netlify.app/',
     id: 7,
   },
   {
