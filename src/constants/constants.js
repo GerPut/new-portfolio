@@ -116,6 +116,15 @@ export const projects = [
     visit: 'https://gerhardp19.netlify.app/',
     id: 12,
   },
+  {
+    title: 'Image Search',
+    description: "Project built with React and Tailwindcss. User can search for images using the search bar. Images are provided with an API that fetches the images and some data that gets displayed under each image. If there aren't any images to display a custom message will show on screen.",
+    image: '/images/project21.png',
+    tags: ['React', 'Tailwindcss'],
+    source: 'https://github.com/GerPut/image-search',
+    visit: 'https://gerhard21.netlify.app',
+    id: 13,
+  }
 ];
 
 export const TimeLineData = [
