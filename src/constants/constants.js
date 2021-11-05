@@ -124,6 +124,15 @@ export const projects = [
     source: 'https://github.com/GerPut/image-search',
     visit: 'https://gerhard21.netlify.app',
     id: 13,
+  },
+  {
+    title: 'WordPress Site',
+    description: "Project built with WordPress + Elementor website builder with the VikBooking Plugin. The site is for demo purposes and contains four pages. The user can book a room or contact the host via a contact form.",
+    image: '/images/wordpress-project.png',
+    tags: ['WordPress', 'Elementor'],
+    source: 'https://gp-demo-1.live/',
+    visit: 'https://gp-demo-1.live/',
+    id: 14,
   }
 ];
 
