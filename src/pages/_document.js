@@ -34,6 +34,7 @@ export default class MyDocument extends Document {
           <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"></link>
           <title>Gerhard Putter</title>
           <meta name="description" content="Hello I'm Gerhard. I am a Front-end Web Developer from Cape Town, South Africa"></meta>
+          <meta property="og:image" content="/images/a1.png" />
         </Head>
         <body>
           <Main />
