@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Old Portfolio',
+    description: "My old Portfolio built with Javascript, HTML, CSS, GSAP animations. It consists of a navbar, three sections and a contact form. Project section displays some of my older projects.",
+    image: '/images/project23.png',
+    tags: ['HTML', 'CSS', 'JS'],
+    source: 'https://github.com/GerPut/Portfolio',
+    visit: 'https://gerhardp-old-portfolio.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Fruity Slots',
     description: "Game Project. A Fruit Slots model was built with HTML, CSS and JS. The aim of the game is to produce random pictures that create a spinning action and stops at set times.",
     image: '/images/fruity1a.png',
     tags: ['HTML', 'CSS', 'JS'],
     source: 'https://github.com/GerPut/fruity_slots',
     visit: 'https://gerhardp4.netlify.app/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Store Page',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['Bootstrap', 'JavaScript', 'CSS'],
     source: 'https://github.com/GerPut/store',
     visit: 'https://gerhardp16.netlify.app/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Menu & Modal',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/GerPut/modal-form',
     visit: 'https://gerhardp12.netlify.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Message Clock & Score',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['HTML', 'SASS', 'Javascript'],
     source: 'https://github.com/GerPut/scorekeeper',
     visit: 'https://gerhardp7.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Restaurant',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/GerPut/burger-site',
     visit: 'https://gerhardp8.netlify.app/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Newsletter',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Gsap', 'BEM'],
     source: 'https://github.com/GerPut/newsletter',
     visit: 'https://gerhardp9.netlify.app/',
-    id: 5,
+    id: 6,
   },
   {
     title: 'Advert',
@@ -60,7 +69,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Gsap'],
     source: 'https://github.com/GerPut/boots',
     visit: 'https://gerhardp10.netlify.app/',
-    id: 6,
+    id: 7,
   },
   {
     title: 'Service Page',
@@ -69,7 +78,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'CSS-Grid', 'ScrollMagic'],
     source: 'https://github.com/GerPut/service-page',
     visit: 'https://gerhardp20.netlify.app/',
-    id: 7,
+    id: 8,
   },
   {
     title: 'Password Strength',
@@ -78,7 +87,7 @@ export const projects = [
     tags: ['React', 'CSS'],
     source: 'https://github.com/GerPut/password-strength',
     visit: 'https://gerhardp15.netlify.app/',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Car List',
@@ -87,7 +96,7 @@ export const projects = [
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/GerPut/car-list',
     visit: 'https://gerhardp18.netlify.app/',
-    id: 9,
+    id: 10,
   },
   {
     title: 'Shopping Cart',
@@ -96,16 +105,16 @@ export const projects = [
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/GerPut/cart',
     visit: 'https://gerhardp13.netlify.app/',
-    id: 10,
+    id: 11,
   },
   {
     title: 'Utility Apps',
-    description: "This project contains mini projects/apps built with HTML, CSS and Javascript. These apps include a Loan Calculator, RSA random code generator, Login Form, Weather app (Use of an API), Currency exchange app (Use of an API), Shopping List (CRUD) and a Calculator. ",
+    description: "This project contains 7 mini projects/apps built with HTML, CSS and Javascript. These apps include a Loan Calculator, RSA random code generator, Login Form, Weather app (Use of an API), Currency exchange app (Use of an API), Shopping List (CRUD) and a Calculator. ",
     image: '/images/project17.png',
     tags: ['HTML', 'CSS', 'Javascript', 'API'],
     source: 'https://github.com/GerPut/utility-apps',
     visit: 'https://gerhardp17.netlify.app/',
-    id: 11,
+    id: 12,
   },
   {
     title: 'Breakout Game',
@@ -114,7 +123,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Javascript', 'Canvas'],
     source: 'https://github.com/GerPut/breakout-game',
     visit: 'https://gerhardp19.netlify.app/',
-    id: 12,
+    id: 13,
   },
   {
     title: 'Image Search',
@@ -123,7 +132,7 @@ export const projects = [
     tags: ['React', 'Tailwindcss'],
     source: 'https://github.com/GerPut/image-search',
     visit: 'https://gerhard21.netlify.app',
-    id: 13,
+    id: 14,
   },
   {
     title: 'Hotel Booking',
@@ -132,16 +141,16 @@ export const projects = [
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
     visit: 'https://gp-demo-1.live/',
-    id: 14,
+    id: 15,
   },
   {
     title: 'Client Site',
     description: "This site was built using Bootstrap. I added custom animate on scroll animations and also custom Whatsapp and Telephone links. It is a one page site as requested by client. The theme of the website is for a woodwork niche.",
     image: '/images/project22.png',
     tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
-    source: 'https://gp-demo-1.live/',
-    visit: 'https://gp-demo-1.live/',
-    id: 15,
+    source: '#',
+    visit: '#',
+    id: 16,
   }
 ];
 
