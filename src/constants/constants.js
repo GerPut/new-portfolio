@@ -36,7 +36,7 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Burger Bros',
+    title: 'Restaurant',
     description: "Burger Restaurant page built with HTML, CSS and JS. The focus of the project was to expand on CSS skills. Various CSS features were used in the development of this page for example moving/zooming background, button animations, slide-in side navbar.",
     image: '/images/project8.png',
     tags: ['HTML', 'CSS', 'Javascript'],
@@ -54,7 +54,7 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'Boots',
+    title: 'Advert',
     description: "Example of a Boots Sale Page built with HTML, CSS and Gsap animations. The page has an overlay animation with appearing elements and a distortion effect when hovering over the main image.",
     image: '/images/project10.png',
     tags: ['HTML', 'CSS', 'Gsap'],
@@ -63,7 +63,7 @@ export const projects = [
     id: 6,
   },
   {
-    title: 'Tilted',
+    title: 'Service Page',
     description: "Service page site for a Poker training program. The project is responsive to all screen sizes. The project was built with HTML, CSS grid along with some basic ScrollMagic animations.",
     image: '/images/project20.png',
     tags: ['HTML', 'CSS', 'CSS-Grid', 'ScrollMagic'],
@@ -126,13 +126,22 @@ export const projects = [
     id: 13,
   },
   {
-    title: 'WordPress Site',
+    title: 'Hotel Booking',
     description: "Project built with WordPress + Elementor website builder with the VikBooking Plugin. The site is for demo purposes and contains four pages. The user can book a room or contact the host via a contact form.",
     image: '/images/wordpress-project.png',
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
     visit: 'https://gp-demo-1.live/',
     id: 14,
+  },
+  {
+    title: 'Client Site',
+    description: "This site was built using Bootstrap. I added custom animate on scroll animations and also custom Whatsapp and Telephone links. It is a one page site as requested by client. The theme of the website is for a woodwork niche.",
+    image: '/images/project22.png',
+    tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
+    source: 'https://gp-demo-1.live/',
+    visit: 'https://gp-demo-1.live/',
+    id: 15,
   }
 ];
 
