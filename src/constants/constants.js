@@ -148,8 +148,8 @@ export const projects = [
     description: "This site was built using Bootstrap. I added custom animate on scroll animations and also custom Whatsapp and Telephone links. It is a one page site as requested by client. The theme of the website is for a Woodwork niche.",
     image: '/images/project22.png',
     tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
-    source: '#',
-    visit: '#',
+    source: 'https://www.groovhoutmeubels.co.za/',
+    visit: 'https://www.groovhoutmeubels.co.za/',
     id: 16,
   }
 ];
