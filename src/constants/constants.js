@@ -45,12 +45,12 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Restaurant',
-    description: "Burger Restaurant page built with HTML, CSS and JS. The focus of the project was to expand on CSS skills. Various CSS features were used in the development of this page for example moving/zooming background, button animations, slide-in side navbar.",
-    image: '/images/project8.png',
+    title: 'Seat Select',
+    description: "Flight service seat selection page built with HTML, CSS and Javascript. User selects seats and a total cost is calculated. Also included on the page is a countdown timer created with Javascript.",
+    image: '/images/project24.png',
     tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://github.com/GerPut/burger-site',
-    visit: 'https://gerhardp8.netlify.app/',
+    source: 'https://github.com/GerPut/plane-tickets',
+    visit: 'https://gerhardp22.netlify.app/',
     id: 5,
   },
   {
@@ -82,7 +82,7 @@ export const projects = [
   },
   {
     title: 'Password Strength',
-    description: "Basic React project with one component and CSS styling to check the strength of a user's password.",
+    description: "Basic React project with one component and CSS styling to check the strength of a user's password. Regex was used to validate each field that must be completed correctly by the user.",
     image: '/images/project15.png',
     tags: ['React', 'CSS'],
     source: 'https://github.com/GerPut/password-strength',
