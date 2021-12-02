@@ -4,7 +4,6 @@ export const Img = styled.img`
   width:100%;
   height:100%;
   object-fit: contain;
-  border-radius:10px 10px 0 0;
   overflow: hidden;
 `
 
@@ -31,7 +30,7 @@ export const BlogCard = styled.div`
     width: 100%;
   }
   &:hover{
-    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 25px rgba(255, 255, 255, 0.5);
     transition:ease-in 0.5s;
   }
 `;
@@ -45,7 +44,7 @@ export const TitleContent = styled.div`
 
 
 export const HeaderThree = styled.h3`
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 1px;
   color: #fafafa;
   padding: 1rem 0.5rem 1rem 0.5rem;
@@ -75,7 +74,7 @@ export const CardInfo = styled.p`
   width: 100%;
   padding: 0 50px;
   color: #ffffff80;
-  font-style: 2rem;
+  font-size: 1.5rem;
   font-weight:300;
   line-height: 24px;
   text-align: justify;
@@ -97,10 +96,9 @@ export const UtilityList = styled.ul`
 
 export const ExternalLinks = styled.a`
 color:#fafafa;
-font-size: 1.6rem;
-font-weight:300;
-border-radius:8px;
-border:1px solid #ec9f05;
+font-size: 1.4rem;
+font-weight:400;
+border:1px solid #A939FD;
 padding:1rem 1.5rem;
 transition: 0.5s;
 &:hover{

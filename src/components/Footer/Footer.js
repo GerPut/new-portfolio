@@ -24,7 +24,7 @@ const Footer = () => {
           <LinkTitle>E-mail</LinkTitle>
           <LinkItem href="mailto:gerhard.putter1@gmail.com">gerhard.putter1@gmail.com</LinkItem>
           <LinkTitle>Social - Codewars</LinkTitle>
-          <LinkItem href="https://www.codewars.com" target="_blank"><img src="https://www.codewars.com/users/GerPut/badges/large"></img></LinkItem>
+          <LinkItem href="https://www.codewars.com" target="_blank"><img src="https://www.codewars.com/users/GerPut/badges/micro"></img></LinkItem>
         </LinkColumn>
 
       </LinkList>
