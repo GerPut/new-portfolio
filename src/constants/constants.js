@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Menu & Modal',
-    description: "Project built with HTML, CSS and JS that consists of a modal and side-nav menu. Client side form validation is a common occurence. The form and menu are responsive to all screen sizes.",
-    image: '/images/project12.png',
+    title: 'Video Background',
+    description: "Project built with HTML, CSS and JS. This is a landing page with a video background that can be used as a boilerplate to expand on in the future. Extra work will be added.",
+    image: '/images/project25.png',
     tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://github.com/GerPut/modal-form',
-    visit: 'https://gerhardp12.netlify.app/',
+    source: 'https://github.com/GerPut/video-landing-page',
+    visit: 'https://gerhardp23.netlify.app/',
     id: 3,
   },
   {
