@@ -36,12 +36,12 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Message Clock & Score',
-    description: "Message Clock and Score Keeper app with a neumorphic design built with HTML, SASS and JS. This app allows you to keep score of a game and provides your current time with a greeting depending on what time of the day it is.",
-    image: '/images/project7a.png',
-    tags: ['HTML', 'SASS', 'Javascript'],
-    source: 'https://github.com/GerPut/scorekeeper',
-    visit: 'https://gerhardp7.netlify.app/',
+    title: 'MineSweeper',
+    description: "Old classic game built with Javascript, HTML and CSS. Recurion played a big role in the development of this game. User has to select all squares that are not bombs to win.",
+    image: '/images/project26.png',
+    tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/GerPut/minesweeper',
+    visit: 'https://gerhardp24.netlify.app/',
     id: 4,
   },
   {
