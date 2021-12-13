@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Netflix Sign In',
-    description: "Page created with HTML and CSS. Many varioations of the Netflix sig in page exist with this attempt I tried to duplicate their page as close as possible.",
+    description: "Page created with HTML and CSS. Many variations of the Netflix sign in page exists, with this attempt I tried to duplicate their page as close as possible.",
     image: '/images/project27.png',
     tags: ['HTML', 'CSS'],
     source: 'https://github.com/GerPut/sign-in',
