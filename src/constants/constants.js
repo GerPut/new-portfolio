@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Store Page',
-    description: "A single page e-commerce store created with Bootsrap, CSS and JS. The page includes animations on scroll a Countdown timer and a current Bitcoin price displayer (Use of an API).",
-    image: '/images/project16.png',
-    tags: ['Bootstrap', 'JavaScript', 'CSS'],
-    source: 'https://github.com/GerPut/store',
-    visit: 'https://gerhardp16.netlify.app/',
+    title: 'Netflix Sign In',
+    description: "Page created with HTML and CSS. Many varioations of the Netflix sig in page exist with this attempt I tried to duplicate their page as close as possible.",
+    image: '/images/project27.png',
+    tags: ['HTML', 'CSS'],
+    source: 'https://github.com/GerPut/sign-in',
+    visit: 'https://gerhardp25.netlify.app/',
     id: 2,
   },
   {
@@ -151,6 +151,15 @@ export const projects = [
     source: 'https://www.groovhoutmeubels.co.za/',
     visit: 'https://www.groovhoutmeubels.co.za/',
     id: 16,
+  },
+  {
+    title: 'Store Page',
+    description: "A single page e-commerce store created with Bootsrap, CSS and JS. The page includes animations on scroll a Countdown timer and a current Bitcoin price displayer (Use of an API).",
+    image: '/images/project16.png',
+    tags: ['Bootstrap', 'JavaScript', 'CSS'],
+    source: 'https://github.com/GerPut/store',
+    visit: 'https://gerhardp16.netlify.app/',
+    id: 17,
   }
 ];
 
