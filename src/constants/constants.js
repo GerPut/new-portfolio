@@ -135,9 +135,9 @@ export const projects = [
     id: 14,
   },
   {
-    title: 'Hotel Booking',
-    description: "Project built with WordPress + Elementor website builder with the VikBooking Plugin. The site is for demo purposes and contains four pages. The user can book a room or contact the host via a contact form.",
-    image: '/images/wordpress-project.png',
+    title: 'Movie Site',
+    description: "A project built with WordPress + Elementor website builder. The site is for demo purposes and contains different sections based on StarWars movies. With the help of tutorials I have gained more experinece in working with Elementor. Currently work in progress.",
+    image: '/images/project30.png',
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
     visit: 'https://gp-demo-1.live/',
