@@ -34,9 +34,9 @@ const GlobalStyles = createGlobalStyle`
 
 
   .cursor {
-    width: 20px;
-    height: 20px;
-    background-color:#ffffff80;
+    width: 10px;
+    height: 10px;
+    background-color:#fff;
     border: 1px solid white;
     border-radius: 50%;
     position: absolute;
@@ -49,11 +49,11 @@ const GlobalStyles = createGlobalStyle`
       width: 30px;
       height: 30px;
       position: absolute;
-      border: 2px solid #ff4e00;
+      border: 2px solid #A939FD;
       border-radius: 50%;
       opacity: .5;
-      top: -7.54px;
-      left: -7.55px;
+      top: -150%;
+      left: -12.60px;
     }
 
     @keyframes cursorAnim {
