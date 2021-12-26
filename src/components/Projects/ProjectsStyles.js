@@ -98,13 +98,15 @@ export const ExternalLinks = styled.a`
 color:#fafafa;
 font-size: 1.4rem;
 font-weight:400;
-border:1px solid #A939FD;
+border-top-right-radius:15px;
+border-bottom:1px solid #A939FD;
 padding:1rem 1.5rem;
-transition: 0.5s;
+transition: 0.8s;
 &:hover{
-  background: #ec9f05;
+  background: linear-gradient(315deg,#b621fe 0%, #1fd1f9 74%);
   color:#000;
   cursor:none;
+  border-bottom-left-radius:15px;
 }
 `;
 
