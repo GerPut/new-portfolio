@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Old Portfolio',
-    description: "My old Portfolio built with Javascript, HTML, CSS, GSAP animations. It consists of a navbar, three sections and a contact form. Project section displays some of my older projects.",
+    description: "My old Portfolio built with Javascript, HTML, CSS, GSAP animations. It consists of a navbar, three sections and a contact form. The site is responsive to various screen sizes. The project section displays some of my older projects.",
     image: '/images/project23.png',
     tags: ['HTML', 'CSS', 'JS'],
     source: 'https://github.com/GerPut/Portfolio',
