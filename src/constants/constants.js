@@ -136,7 +136,7 @@ export const projects = [
   },
   {
     title: 'Movie Site',
-    description: "A project built with WordPress + Elementor website builder. The site is for demo purposes and contains different sections based on StarWars movies. With the help of tutorials I have gained more experinece in working with Elementor. Currently work in progress.",
+    description: "A project built with WordPress + Elementor website builder. The site is for demo purposes and contains different sections based on StarWars movies. With the help of tutorials I have gained more experience in working with Elementor.",
     image: '/images/project30.png',
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
@@ -153,12 +153,12 @@ export const projects = [
     id: 16,
   },
   {
-    title: 'Store Page',
-    description: "A single page e-commerce store created with Bootsrap, CSS and JS. The page includes animations on scroll a Countdown timer and a current Bitcoin price displayer (Use of an API).",
-    image: '/images/project16.png',
-    tags: ['Bootstrap', 'JavaScript', 'CSS'],
-    source: 'https://github.com/GerPut/store',
-    visit: 'https://gerhardp16.netlify.app/',
+    title: 'Modern Site',
+    description: "Modern website built with React and Css from a Figma design following the BEM methodology. The site has Animate on Scroll animations and is responsive to all screen sizes.",
+    image: '/images/project31.png',
+    tags: ['React', 'Animate on Scroll', 'CSS'],
+    source: 'https://github.com/GerPut/react-modern-site',
+    visit: 'https://react-modern-site.vercel.app/',
     id: 17,
   }
 ];
