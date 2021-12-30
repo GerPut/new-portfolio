@@ -136,7 +136,7 @@ export const projects = [
   },
   {
     title: 'Movie Site',
-    description: "A project built with WordPress + Elementor website builder. The site is for demo purposes and contains different sections based on StarWars movies. With the help of tutorials I have gained more experience in working with Elementor.",
+    description: "A project built with WordPress + Elementor website builder. The site is for demo purposes and contains different sections based on a StarWars movie. With the help of tutorials I have gained more experience in working with Elementor.",
     image: '/images/project30.png',
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
