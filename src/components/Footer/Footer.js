@@ -31,7 +31,7 @@ const Footer = () => {
 
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Gerhard Putter 2021. This site was compiled with Next.js</Slogan>
+          <Slogan>Gerhard Putter 2022. This site was compiled with Next.js</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/GerPut">
