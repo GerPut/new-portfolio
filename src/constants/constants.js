@@ -36,12 +36,12 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'MineSweeper',
-    description: "Old classic game built with Javascript, HTML and CSS. Recurion played a big role in the development of this game. User has to select all squares that are not bombs to win.",
-    image: '/images/project26.png',
+    title: 'Games',
+    description: "Front page with menu consisting of buttons to select a game the user wants to play. Old classic games built with Javascript, HTML and CSS. Games include MineSweeper, Breakout and Fruity Slots",
+    image: '/images/project32.png',
     tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://github.com/GerPut/minesweeper',
-    visit: 'https://gerhardp24.netlify.app/',
+    source: 'https://github.com/GerPut/games',
+    visit: 'https://gerhardp27.netlify.app/',
     id: 4,
   },
   {
@@ -108,31 +108,13 @@ export const projects = [
     id: 11,
   },
   {
-    title: 'Fruity Slots',
-    description: "Game Project. A Fruit Slots model was built with HTML, CSS and JS. The aim of the game is to produce random pictures that create a spinning action and stops at set times.",
-    image: '/images/fruity1a.png',
-    tags: ['HTML', 'CSS', 'JS'],
-    source: 'https://github.com/GerPut/fruity_slots',
-    visit: 'https://gerhardp4.netlify.app/',
-    id: 12,
-  },
-  {
-    title: 'Breakout Game',
-    description: "Game Project. Using Javascript, CSS and HTML Canvas to create a game. The aim of the game is to hit the moving ball with a paddle to destroy bricks. For each brick destroyed the score increments. If the paddle misses the ball the game resets.",
-    image: '/images/project19.png',
-    tags: ['HTML', 'CSS', 'Javascript', 'Canvas'],
-    source: 'https://github.com/GerPut/breakout-game',
-    visit: 'https://gerhardp19.netlify.app/',
-    id: 13,
-  },
-  {
     title: 'Image Search',
     description: "Project built with React and Tailwindcss. User can search for images using the search bar. Images are provided with an API that fetches the images and some data that gets displayed under each image. If there aren't any images to display a custom message will show on screen.",
     image: '/images/project21.png',
     tags: ['React', 'Tailwindcss'],
     source: 'https://github.com/GerPut/image-search',
     visit: 'https://gerhard21.netlify.app',
-    id: 14,
+    id: 12,
   },
   {
     title: 'Movie Site',
@@ -141,7 +123,7 @@ export const projects = [
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
     visit: 'https://gp-demo-1.live/',
-    id: 15,
+    id: 13,
   },
   {
     title: 'Client Site',
@@ -150,7 +132,7 @@ export const projects = [
     tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
     source: 'https://www.groovhoutmeubels.co.za/',
     visit: 'https://www.groovhoutmeubels.co.za/',
-    id: 16,
+    id: 14,
   },
   {
     title: 'Modern Site',
@@ -159,7 +141,7 @@ export const projects = [
     tags: ['React', 'Animate on Scroll', 'CSS'],
     source: 'https://github.com/GerPut/react-modern-site',
     visit: 'https://react-modern-site.vercel.app/',
-    id: 17,
+    id: 15,
   }
 ];
 
