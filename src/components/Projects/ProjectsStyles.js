@@ -5,6 +5,9 @@ export const Img = styled.img`
   height:100%;
   object-fit: contain;
   overflow: hidden;
+  border-top-right-radius:20px;
+  border-top-left-radius:20px;
+
 `
 
 export const GridContainer = styled.section`
@@ -24,6 +27,7 @@ row-gap: 3rem;
 `
 export const BlogCard = styled.div`
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
+  border-radius:20px;
   text-align: center;
   width: 400px;
   @media ${(props) => props.theme.breakpoints.sm} {
@@ -39,7 +43,6 @@ export const TitleContent = styled.div`
   z-index: 20;
   width: 100%;
   margin-top:0.5rem;
-
 `;
 
 
