@@ -142,6 +142,15 @@ export const projects = [
     source: 'https://github.com/GerPut/react-modern-site',
     visit: 'https://react-modern-site.vercel.app/',
     id: 15,
+  },
+  {
+    title: 'Card Validation',
+    description: "Project created with Javascript, HTML and CSS to validate credit card numbers. The functionality of the app uses the Luhn algorithm to calculate validity of the card number. If the card number and country is valid the user can save the details to local storage.",
+    image: '/images/project33.jpg',
+    tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
+    source: 'https://github.com/GerPut/card-check',
+    visit: 'https://gerhardp30.netlify.app/',
+    id: 16,
   }
 ];
 
