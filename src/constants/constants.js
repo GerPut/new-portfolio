@@ -49,8 +49,8 @@ export const projects = [
     description: "Classic casino game built with Javascript, HTML and CSS covering the basics of all three languages. User can the start game by pressing start game and also add another card by pressing new card button. Black Jack rules apply with a message displaying if player has won or not.",
     image: '/images/project35.png',
     tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://github.com/GerPut/plane-tickets',
-    visit: 'https://gerhardp22.netlify.app/',
+    source: 'https://github.com/GerPut/blackjack',
+    visit: 'https://chic-pika-d3b8b0.netlify.app/',
     id: 5,
   },
   {
