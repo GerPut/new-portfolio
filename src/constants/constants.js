@@ -45,22 +45,13 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Black Jack',
-    description: "Classic casino game built with Javascript, HTML and CSS covering the basics of all three languages. User can the start game by pressing start game and also add another card by pressing new card button. Black Jack rules apply with a message displaying if player has won or not.",
-    image: '/images/project35.png',
-    tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://github.com/GerPut/blackjack',
-    visit: 'https://chic-pika-d3b8b0.netlify.app/',
-    id: 5,
-  },
-  {
     title: 'Odds App',
     description: "This app was built with HTML, CSS and Javascript. I created for myself to check for possible discrepancies between betting lines of UFC events. I hard coded my own stats and formulas.",
     image: '/images/project29.png',
     tags: ['Javascrip', 'HTML', 'CSS'],
     source: 'https://github.com/GerPut/stats-app',
     visit: 'https://gerhardp26.netlify.app/',
-    id: 6,
+    id: 5,
   },
   {
     title: 'Advert',
@@ -69,7 +60,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'Gsap'],
     source: 'https://github.com/GerPut/boots',
     visit: 'https://gerhardp10.netlify.app/',
-    id: 7,
+    id: 6,
   },
   {
     title: 'Password Strength',
@@ -78,7 +69,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'React'],
     source: 'https://github.com/GerPut/password-strength',
     visit: 'https://gerhardp15.netlify.app/',
-    id: 8,
+    id: 7,
   },
   {
     title: 'Service Page',
@@ -87,7 +78,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'CSS-Grid', 'ScrollMagic'],
     source: 'https://github.com/GerPut/service-page',
     visit: 'https://gerhardp20.netlify.app/',
-    id: 9,
+    id: 8,
   },
   {
     title: 'Car List',
@@ -96,7 +87,7 @@ export const projects = [
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/GerPut/car-list',
     visit: 'https://gerhardp18.netlify.app/',
-    id: 10,
+    id: 9,
   },
   {
     title: 'Shopping Cart',
@@ -105,7 +96,7 @@ export const projects = [
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/GerPut/cart',
     visit: 'https://gerhardp13.netlify.app/',
-    id: 11,
+    id: 10,
   },
   {
     title: 'Image Search',
@@ -114,7 +105,7 @@ export const projects = [
     tags: ['React', 'Tailwindcss'],
     source: 'https://github.com/GerPut/image-search',
     visit: 'https://gerhard21.netlify.app',
-    id: 12,
+    id: 11,
   },
   {
     title: 'Movie Site',
@@ -123,7 +114,7 @@ export const projects = [
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
     visit: 'https://gp-demo-1.live/',
-    id: 13,
+    id: 12,
   },
   {
     title: 'Client Site',
@@ -132,7 +123,7 @@ export const projects = [
     tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
     source: 'https://www.groovhoutmeubels.co.za/',
     visit: 'https://www.groovhoutmeubels.co.za/',
-    id: 14,
+    id: 13,
   },
   {
     title: 'Modern Site',
@@ -141,7 +132,7 @@ export const projects = [
     tags: ['React', 'Animate on Scroll', 'CSS'],
     source: 'https://github.com/GerPut/react-modern-site',
     visit: 'https://react-modern-site.vercel.app/',
-    id: 15,
+    id: 14,
   },
   {
     title: 'Card Validation',
@@ -150,7 +141,7 @@ export const projects = [
     tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
     source: 'https://github.com/GerPut/card-check',
     visit: 'https://gerhardp30.netlify.app/',
-    id: 16,
+    id: 15,
   }
 ];
 
