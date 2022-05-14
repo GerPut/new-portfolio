@@ -54,22 +54,13 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'Advert',
-    description: "Example of a Boots Sale Page built with HTML, CSS and Gsap animations. The page has an overlay animation with appearing elements and a distortion effect when hovering over the main image.",
-    image: '/images/project10.png',
-    tags: ['HTML', 'CSS', 'Gsap'],
-    source: 'https://github.com/GerPut/boots',
-    visit: 'https://gerhardp10.netlify.app/',
-    id: 6,
-  },
-  {
     title: 'Password Strength',
     description: "React app to check a user's password strength according to certain criteria. The Criteria is made up from Regex patterns that check for password length, uppercase letters, symbols and numbers",
     image: '/images/project34.jpg',
     tags: ['HTML', 'CSS', 'React'],
     source: 'https://github.com/GerPut/password-strength',
     visit: 'https://gerhardp15.netlify.app/',
-    id: 7,
+    id: 6,
   },
   {
     title: 'Service Page',
@@ -78,7 +69,7 @@ export const projects = [
     tags: ['HTML', 'CSS', 'CSS-Grid', 'ScrollMagic'],
     source: 'https://github.com/GerPut/service-page',
     visit: 'https://gerhardp20.netlify.app/',
-    id: 8,
+    id: 7,
   },
   {
     title: 'Car List',
@@ -87,7 +78,7 @@ export const projects = [
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/GerPut/car-list',
     visit: 'https://gerhardp18.netlify.app/',
-    id: 9,
+    id: 8,
   },
   {
     title: 'Shopping Cart',
@@ -96,7 +87,7 @@ export const projects = [
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/GerPut/cart',
     visit: 'https://gerhardp13.netlify.app/',
-    id: 10,
+    id: 9,
   },
   {
     title: 'Image Search',
@@ -105,7 +96,7 @@ export const projects = [
     tags: ['React', 'Tailwindcss'],
     source: 'https://github.com/GerPut/image-search',
     visit: 'https://gerhard21.netlify.app',
-    id: 11,
+    id: 10,
   },
   {
     title: 'Movie Site',
@@ -114,7 +105,7 @@ export const projects = [
     tags: ['WordPress', 'Elementor'],
     source: 'https://gp-demo-1.live/',
     visit: 'https://gp-demo-1.live/',
-    id: 12,
+    id: 11,
   },
   {
     title: 'Client Site',
@@ -123,7 +114,7 @@ export const projects = [
     tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
     source: 'https://www.groovhoutmeubels.co.za/',
     visit: 'https://www.groovhoutmeubels.co.za/',
-    id: 13,
+    id: 12,
   },
   {
     title: 'Modern Site',
@@ -132,7 +123,7 @@ export const projects = [
     tags: ['React', 'Animate on Scroll', 'CSS'],
     source: 'https://github.com/GerPut/react-modern-site',
     visit: 'https://react-modern-site.vercel.app/',
-    id: 14,
+    id: 13,
   },
   {
     title: 'Card Validation',
@@ -141,6 +132,15 @@ export const projects = [
     tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
     source: 'https://github.com/GerPut/card-check',
     visit: 'https://gerhardp30.netlify.app/',
+    id: 14,
+  },
+  {
+    title: 'Chrome Extension',
+    description: "Chrome extension built with Javascript, HTML and CSS that can be installed to save URL's in a list. The list gets saved to local storage and can be cleared by double clicking on Delete button. ",
+    image: '/images/project36.png',
+    tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
+    source: 'https://github.com/GerPut/chrome-extension',
+    visit: 'https://subtle-shortbread-79e781.netlify.app/',
     id: 15,
   }
 ];
