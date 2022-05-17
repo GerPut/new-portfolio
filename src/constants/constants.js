@@ -117,13 +117,31 @@ export const projects = [
     id: 12,
   },
   {
+    title: 'Client Site-2',
+    description: "Bootstrap site build for an accountant. The site has a video background and some animate on scroll animations. The site is fully responsive to all screen sizes and is deployed on netlify for time being.",
+    image: '/images/project37.png',
+    tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
+    source: '',
+    visit: 'https://precious-scone-932bdd.netlify.app/',
+    id: 13,
+  },
+  {
+    title: 'Course Site',
+    description: "This four page website was built according to intructions given in a UCT web design course. The main languages used to create everything from scratch were HTML, CSS and Javascript.",
+    image: '/images/project38.png',
+    tags: ['Javascript', 'AOS', 'HTML', 'CSS'],
+    source: 'https://github.com/GerPut/uct-project',
+    visit: 'http://trekrun.co.za/',
+    id: 14,
+  },
+  {
     title: 'Modern Site',
     description: "Modern website built with React and Css from a Figma design following the BEM methodology. The site has Animate on Scroll animations and is responsive to all screen sizes.",
     image: '/images/project31.png',
     tags: ['React', 'Animate on Scroll', 'CSS'],
     source: 'https://github.com/GerPut/react-modern-site',
     visit: 'https://react-modern-site.vercel.app/',
-    id: 13,
+    id: 15,
   },
   {
     title: 'Card Validation',
@@ -132,7 +150,7 @@ export const projects = [
     tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
     source: 'https://github.com/GerPut/card-check',
     visit: 'https://gerhardp30.netlify.app/',
-    id: 14,
+    id: 16,
   },
   {
     title: 'Chrome Extension',
@@ -141,7 +159,7 @@ export const projects = [
     tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
     source: 'https://github.com/GerPut/chrome-extension',
     visit: 'https://subtle-shortbread-79e781.netlify.app/',
-    id: 15,
+    id: 17,
   }
 ];
 
