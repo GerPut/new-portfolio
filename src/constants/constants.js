@@ -118,11 +118,11 @@ export const projects = [
   },
   {
     title: 'Client Site-2',
-    description: "Bootstrap site build for an accountant. The site has a video background and some animate on scroll animations. The site is fully responsive to all screen sizes and is deployed on netlify for time being.",
+    description: "Bootstrap site build for an accountant. The site has a video background and some animate on scroll animations. The site is fully responsive to all screen sizes.",
     image: '/images/project37.png',
     tags: ['Bootstrap', 'AOS', 'HTML', 'CSS'],
-    source: 'https://precious-scone-932bdd.netlify.app/',
-    visit: 'https://precious-scone-932bdd.netlify.app/',
+    source: 'https://www.ssprofessionalaccounting.co.za/',
+    visit: 'https://www.ssprofessionalaccounting.co.za/',
     id: 13,
   },
   {
