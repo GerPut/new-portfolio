@@ -126,13 +126,22 @@ export const projects = [
     id: 13,
   },
   {
+    title: 'Client Site-3',
+    description: "Website built with WordPress and Elementor for a MTB niche. Several plugins used for bookings and payment integration. Custom CSS implemented for certain styles of elements.",
+    image: '/images/project39.png',
+    tags: ['Javascript', 'Wordpress', 'HTML', 'CSS', 'Elementor'],
+    source: 'https://schoolofcycling.co.za',
+    visit: 'https://schoolofcycling.co.za/',
+    id: 14,
+  },
+  {
     title: 'Course Site',
     description: "This four page website was built according to intructions given in a UCT web design course. The main languages used to create everything from scratch were HTML, CSS and Javascript.",
     image: '/images/project38.png',
     tags: ['Javascript', 'AOS', 'HTML', 'CSS'],
     source: 'https://github.com/GerPut/uct-project',
     visit: 'http://trekrun.co.za/',
-    id: 14,
+    id: 15,
   },
   {
     title: 'Modern Site',
@@ -141,7 +150,7 @@ export const projects = [
     tags: ['React', 'Animate on Scroll', 'CSS'],
     source: 'https://github.com/GerPut/react-modern-site',
     visit: 'https://react-modern-site.vercel.app/',
-    id: 15,
+    id: 16,
   },
   {
     title: 'Card Validation',
@@ -150,7 +159,7 @@ export const projects = [
     tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
     source: 'https://github.com/GerPut/card-check',
     visit: 'https://gerhardp30.netlify.app/',
-    id: 16,
+    id: 17,
   },
   {
     title: 'Chrome Extension',
@@ -159,7 +168,7 @@ export const projects = [
     tags: ['Javascript', 'Toastify', 'CSS', 'HTML'],
     source: 'https://github.com/GerPut/chrome-extension',
     visit: 'https://subtle-shortbread-79e781.netlify.app/',
-    id: 17,
+    id: 18,
   }
 ];
 
