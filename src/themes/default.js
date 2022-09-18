@@ -1,8 +1,10 @@
 export default {
   // Temp fonts
   fonts: {
-    title: 'Heebo, sans-serif',
-    main: 'Heebo, sans-serif'
+    // title: 'Heebo, sans-serif',
+    // main: 'Heebo, sans-serif'
+    title: 'Inter, sans-serif',
+    main: 'Inter, sans-serif'
   },
   // Colors for layout
   colors: {
