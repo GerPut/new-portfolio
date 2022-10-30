@@ -169,6 +169,15 @@ export const projects = [
     source: 'https://github.com/GerPut/chrome-extension',
     visit: 'https://subtle-shortbread-79e781.netlify.app/',
     id: 18,
+  },
+  {
+    title: 'Shopify',
+    description: "Theme development work with O.S1.0 stores (Themekit). Also Work with O.S2.0 stores (Shopify CLI). Fixing bugs in code and resolving issues with 3rd party apps. Mostly worked with Javascript, CSS, HTML, Liquid and JSON.",
+    image: '/images/project40.png',
+    tags: ['Javascript', 'CSS', 'HTML', 'JSON', 'Liquid'],
+    source: '',
+    visit: '',
+    id: 19,
   }
 ];
 
